@@ -1,0 +1,15 @@
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.AssemblyInfo.cs
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\bin\Debug\net6.0\Exp1.exe
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\bin\Debug\net6.0\Exp1.deps.json
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\bin\Debug\net6.0\Exp1.runtimeconfig.json
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\bin\Debug\net6.0\Exp1.dll
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\bin\Debug\net6.0\Exp1.pdb
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.dll
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\refint\Exp1.dll
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.pdb
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\Exp1.genruntimeconfig.cache
+C:\Users\Артем\Desktop\GB1\hw\HW120722\Exp1\obj\Debug\net6.0\ref\Exp1.dll
